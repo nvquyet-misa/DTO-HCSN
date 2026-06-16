@@ -160,4 +160,8 @@
 | `QLTS` | MISA Quản lý Tài sản |
 
 
-**RoleType**: 1: Quản trị ứng dụng, 2: user thường
+
+**RoleType**: 
+|---|
+|1: User là QTUD dưới subapp|
+|2: User có quyền khác QTUD dưới subapp|
