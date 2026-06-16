@@ -50,6 +50,7 @@
   "Avatar":            "string | null",
 
   "SourceApp":            "string"
+  "RoleType": "int"
 }
 ```
 
@@ -157,3 +158,6 @@
 | `SALAGOV` | MISA SalaGov |
 | `MIMOSA` | MISA Mimosa |
 | `QLTS` | MISA Quản lý Tài sản |
+
+
+**RoleType**: 1: Quản trị ứng dụng, 2: user thường
